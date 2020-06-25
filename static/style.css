@@ -1,0 +1,38 @@
+.h1 {
+  text-align: center;
+  background-color: black;
+  padding-left: 30px;
+}
+
+body {
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-bottom: 300px;
+  padding-top: 150px;
+  height: 100%;
+}
+
+img {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+p {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.resume {
+  position: absolute;
+  top: 100px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: black;
+}
+.resume iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
